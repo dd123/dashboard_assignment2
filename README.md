@@ -4,6 +4,7 @@
 #Purpose
 The purpose of this repo is to show how I think this theme is useful for our CSE112 project: RoboBetty. I have changed
 some of the elements in the theme to create a mock-up of what our dashboard could look like if we choose to use DashGum.
+My changes were only to index.html , and thus the RoboBetty mockup is only reflected in that file.
 
 
 
